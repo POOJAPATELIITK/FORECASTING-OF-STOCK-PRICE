@@ -20,7 +20,7 @@ This project focuses on forecasting stock prices using time series modeling and 
 
 * Handled missing values, outliers, and transformed time series data into supervised learning format
 
-### **Modeling Approach**
+### **Modelling Approach**
 
 * Implemented statistical models (e.g., ARIMA/SARIMA)
 
