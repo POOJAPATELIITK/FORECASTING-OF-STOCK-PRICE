@@ -1,10 +1,10 @@
 # **Project Overview**
 
-This project focuses on forecasting stock prices using time series modeling and machine learning techniques. The primary goals include:
+This project focuses on forecasting stock prices using time series modelling and machine learning techniques. The primary goals include:
 
 * Acquiring historical stock data
   
-* Preprocessing for accurate modeling
+* Preprocessing for accurate modelling
 
 * Comparing models such as ARIMA, Random Forest, LSTM for short and long-term predictions
 
